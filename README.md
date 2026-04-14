@@ -8,7 +8,7 @@ List of Excitation Coefficients for a particle plunging in a Kerr Black Hole.
     
     - **Data format:**
       
-      $a/M, M \omega_R, \ M \omega_I, \ \mathrm{Re}(B_{\ell mn}^{SN}), \ \mathrm{Im}(B_{\ell mn}^{SN}), \ m_p^{-1}\ \mathrm{Re}(C_{\ell mn}^{SN}), \ m_p^{-1}\ \mathrm{Im}(C_{\ell mn}^{SN})$
+      $a/M, M \omega_R, \ M \omega_I, \ \mathrm{Re}(B_{\ell mn}^{SN}), \ \mathrm{Im}(B_{\ell mn}^{SN}), \ m_p^{-1}\ \mathrm{Re}(C_{\ell mn}), \ m_p^{-1}\ \mathrm{Im}(C_{\ell mn})$
 
     - **REFERENCE PAPER:**
     
