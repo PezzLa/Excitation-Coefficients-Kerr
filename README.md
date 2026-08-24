@@ -13,3 +13,22 @@ List of Excitation Coefficients for a particle plunging in a Kerr Black Hole.
     - **REFERENCE PAPER:**
     
       Quasinormal ringing of Kerr black holes. III. Excitation coefficients for equatorial inspirals from the innermost stable circular orbit, _M. Della Rocca, L. Pezzella, E. Berti, L. Gualtieri, A. Maselli_, [arXiv:2512.07959](https://arxiv.org/abs/2512.07959)
+REFERENCE PAPERS
+
+  ++ uasinormal ringing of Kerr black holes. III. Excitation coefficients for equatorial inspirals from the innermost stable circular orbit
+
+    @article{ydp5-ktpn,
+    title = {Quasinormal ringing of Kerr black holes. III. Excitation coefficients for equatorial inspirals from the innermost stable circular orbit},
+    author = {Della Rocca, Matteo and Pezzella, Laura and Berti, Emanuele and Gualtieri, Leonardo and Maselli, Andrea},
+    journal = {Phys. Rev. D},
+    volume = {114},
+    issue = {4},
+    pages = {044036},
+    numpages = {24},
+    year = {2026},
+    month = {Aug},
+    publisher = {American Physical Society},
+    doi = {10.1103/ydp5-ktpn},
+    url = {https://link.aps.org/doi/10.1103/ydp5-ktpn}
+}
+
