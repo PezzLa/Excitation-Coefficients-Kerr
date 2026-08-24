@@ -11,11 +11,8 @@ List of Excitation Coefficients for a particle plunging in a Kerr Black Hole.
       $a/M, M \omega_R, \ M \omega_I, \ \mathrm{Re}(B_{\ell mn}^{SN}), \ \mathrm{Im}(B_{\ell mn}^{SN}), \ m_p^{-1}\ \mathrm{Re}(C_{\ell mn}), \ m_p^{-1}\ \mathrm{Im}(C_{\ell mn})$
 
     - **REFERENCE PAPER:**
-    
-      Quasinormal ringing of Kerr black holes. III. Excitation coefficients for equatorial inspirals from the innermost stable circular orbit, _M. Della Rocca, L. Pezzella, E. Berti, L. Gualtieri, A. Maselli_, [arXiv:2512.07959](https://arxiv.org/abs/2512.07959)
-REFERENCE PAPERS
 
-  ++ uasinormal ringing of Kerr black holes. III. Excitation coefficients for equatorial inspirals from the innermost stable circular orbit
+  ++ Quasinormal ringing of Kerr black holes. III. Excitation coefficients for equatorial inspirals from the innermost stable circular orbit
 
     @article{ydp5-ktpn,
     title = {Quasinormal ringing of Kerr black holes. III. Excitation coefficients for equatorial inspirals from the innermost stable circular orbit},
